@@ -6,9 +6,9 @@ Hello! I'm Anshul Chaudhary, a final year B.Tech student in Computer Science at 
 - 12th Grade | Urmil Unique Central Academy School | 69.8%
 - 10th Grade | Stepping Stone Children Academy School | 66.67%
 ### 🛠️ Skills
-Programming Languages: Python C C++ SQL
-Libraries & Frameworks: Pandas NumPy Scikit-Learn TensorFlow Keras Flask BeautifulSoup
-Data Analysis & Visualization: SQL Tableau Excel
-Machine Learning & NLP: Machine Learning NLP
-Tools: VS Code Jupyter Spyder Git
-Web Development: Flask HTML CSS
+- Programming Languages*: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+- Libraries & Frameworks: Pandas NumPy Scikit-Learn TensorFlow Keras Flask BeautifulSoup
+- Data Analysis & Visualization: SQL Tableau Excel
+- Machine Learning & NLP: Machine Learning NLP
+- Tools: VS Code Jupyter Spyder Git
+- Web Development: Flask HTML CSS
