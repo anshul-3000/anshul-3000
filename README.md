@@ -37,6 +37,6 @@ Hello! I'm Anshul Chaudhary, a final year B.Tech student in Computer Science at 
 - **LinkedIn**: [Anshul Chaudhary](https://www.linkedin.com/in/anshul-chaudhary-b571b5251/)
 - **Email**: anshulchaudhary3000@gmail.com
 - **GitHub**: [Anshul Chaudhary](https://github.com/anshul-3000)
-  --- 
-### **Let's Collaborate and Create Something Amazing! 🌟**
+---
+**Let's Collaborate and Create Something Amazing! 🌟**
 
