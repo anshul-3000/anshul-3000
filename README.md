@@ -2,9 +2,9 @@
 ## 🌟 About Me
 Hello! I'm Anshul Chaudhary, a final year B.Tech student in Computer Science at Deen Dayal Upadhyaya Gorakhpur University. I am passionate about Data Science and Machine Learning, and I have developed my expertise through various projects and competitions.
 ### 🎓 Education
-- B.Tech in Computer Science | Deen Dayal Upadhyaya Gorakhpur University | CGPA: 8.17
-- 12th Grade | Urmil Unique Central Academy School | 69.8%
-- 10th Grade | Stepping Stone Children Academy School | 66.67%
+- **B.Tech in Computer Science** | Deen Dayal Upadhyaya Gorakhpur University | CGPA: 8.17
+- **12th Grade** | Urmil Unique Central Academy School | 69.8%
+- **10th Grade** | Stepping Stone Children Academy School | 66.67%
 ### 🛠️ Skills
 - **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 - **Libraries & Frameworks**: ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-009688?logo=beautifulsoup&logoColor=white)
@@ -18,9 +18,9 @@ Hello! I'm Anshul Chaudhary, a final year B.Tech student in Computer Science at 
 - Fraud Detection Using Decision Tree Classifier
 - Web Scraping of Oxfordbook Store
 - Movie Review Classifier Using Naive Bayes
-- Emotion Detection Application Using Deep Learning
+- Emotion Detection Model Using Deep Learning
 ### 🚀 What I'm Currently Working On
-- **Final Year Project**: Developing a Fraud Detection System using advanced machine learning algorithms.
+- **Final Year Project**: Developing a Emotion Detection Model Using Convolutional Neural Networks (CNNs) in real-time.
 - **Generative AI**: Exploring and learning about Large Language Models (LLMs) and Generative AI.
 - **Interview Preparation**: Enhancing my DSA and machine learning skills, and working on CNN projects.
 ### 🏆 Achievements & Certifications
