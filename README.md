@@ -31,7 +31,7 @@ Hello! I'm Anshul Chaudhary, a final year B.Tech student in Computer Science at 
 - **Workshop Certificates** | Various Technical Domains
 ### 💡 Interests
 - **Data Analytics**: Passionate about analyzing data to extract meaningful insights.
-- **Machine Learning**: Focused on building predictive models to solve complex problems.
+- **Machine Learning**: Focused on building predictive models to solve complex and real-world problems.
 - **Networking**: Actively engaging with the tech community and exploring new opportunities.
 ### 🔍 How to Reach Me
 - **LinkedIn**: [Anshul Chaudhary](https://www.linkedin.com/in/anshul-chaudhary-b571b5251/)
