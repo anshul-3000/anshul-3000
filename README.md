@@ -89,7 +89,7 @@ I'm deeply passionate about **Data Science**, **Machine Learning**, and full-sta
 ---
 
 ## 🔬 What I'm Working On
-
+- 💻 Improving my skills in Software & Web Development
 - 🧠 Improving real-time CNN-based emotion prediction  
 - 🧪 Learning about LLMs, Transformers & Generative AI  
 - 💻 Practicing DSA and coding interviews for placements  
