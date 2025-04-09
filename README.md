@@ -1,4 +1,4 @@
-# 👨‍💻 Anshul Chaudhary | Full-Stack & AI/ML Engineer
+# 👨‍💻 Anshul Chaudhary | Full-Stack Developer & AI/ML Engineer
 
 ## 🌟 About Me
 
