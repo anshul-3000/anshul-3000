@@ -2,14 +2,14 @@
 
 ## 🌟 About Me
 
-Hi there! I'm **Anshul Chaudhary**, a final-year B.Tech Computer Science student from **Deen Dayal Upadhyaya Gorakhpur University**.  
+Hi there! I'm **Anshul Chaudhary**, a B.Tech Computer Science graduate from **Deen Dayal Upadhyaya Gorakhpur University**.  
 I'm deeply passionate about **Data Science**, **Machine Learning**, and full-stack **AI-powered applications**. I love building real-world projects that merge modern web tech with deep learning.
 
 ---
 
 ## 🎓 Education
 
-- **B.Tech in Computer Science** | DDU Gorakhpur University | CGPA: 8.22  
+- **B.Tech in Computer Science** | DDU Gorakhpur University | CGPA: 8.27  
 - **12th Grade** | Urmil Unique Central Academy School | 69.8%  
 - **10th Grade** | Stepping Stone Children Academy School | 66.67%  
 
