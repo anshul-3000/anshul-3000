@@ -1,8 +1,8 @@
-# 👩‍💻 Vaishnavi Pandey | Data Scientist, ML Engineer & Full Stack Developer
+# 👩‍💻 Anshul Chaudhary | Data Scientist, ML Engineer & Full Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-pandey-2704a5271/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaishnaviii03)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavipandey7979@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-chaudhary-b571b5251/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshul-3000)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulchaudhary3000@gmail.com)
 
 ---
 
@@ -29,17 +29,13 @@ I am a passionate and skilled graduate in Information Technology with a strong f
 - *GrowGuide:* GrowGuide is an AI-powered online learning platform built with Next.js that generates personalized tech courses using Gemini. It features user authentication, a dynamic landing page, and plans for interactive, trackable learning experiences.
 - *Snapticket:* An online movie ticket booking platform, like BookMyShow or Paytm Movies, built using React, Tailwind CSS, Clerk for auth, and a custom backend (likely Node.js or similar)
 - *YumCraft:* Recipe recommendation engine scraping 1,000+ recipes using BeautifulSoup; powered by NLP content-based filtering. Deployed React frontend and Flask backend on Render and Netlify.
-- *FlickPick:* AI-powered hybrid movie recommendation engine combining collaborative filtering (SVD) and content-based filtering with React UI and Flask REST APIs, featuring dynamic UI and genre filters.
 
-Explore more at my [GitHub](https://github.com/Vaishnaviii03).
+Explore more at my [GitHub]).
 
 ---
 
 ### 🏆 Achievements
 
-- Branch Topper in Information Technology at DDUGU
-- NPTEL Top 1% in Cyber Security & Privacy (IIT Madras)
-- NPTEL Top 5% in Cloud Computing (IIT Kharagpur)
 - Solved 500+ DSA problems on various platforms
 
 ---
@@ -47,7 +43,7 @@ Explore more at my [GitHub](https://github.com/Vaishnaviii03).
 ### 📫 Connect with Me
 
 Open to collaborations, internships, and full-time roles in *Data Science, Machine Learning, and Full Stack Development*.  
-Reach me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-pandey-2704a5271/) or via email at vaishnavipandey7979@gmail.com.
+Reach me on [LinkedIn](https://www.linkedin.com/in/anshul-chaudhary-b571b5251//) or via email at anshulchaudhary3000@gmail.com.
 
 ---
 
