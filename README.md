@@ -37,6 +37,9 @@ Explore more at my [GitHub]).
 ### 🏆 Achievements
 
 - Solved 500+ DSA problems on various platforms
+- Published Research Paper – NICEDT 2025: Co-authored a
+paper on real-time drowsiness detection using Haar Cascade,
+OpenCV & Pygame.
 
 ---
 
