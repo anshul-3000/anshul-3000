@@ -7,7 +7,7 @@
 ---
 
 ### 🌟 About Me
-I am a passionate and skilled graduate in Information Technology with a strong focus on Data Science, Machine Learning, NLP, and Full Stack Development. I have successfully completed impactful projects by leveraging Python, Flask, React, Node.js, and modern machine learning techniques to solve real-world challenges. Eager to contribute and grow in dynamic teams, I enjoy building intelligent models and robust full stack applications that drive innovation
+I am a passionate and skilled graduate in Computer Science with a strong focus on Data Science, Machine Learning, NLP, and Full Stack Development. I have successfully completed impactful projects by leveraging Python, Flask, React, Node.js, and modern machine learning techniques to solve real-world challenges. Eager to contribute and grow in dynamic teams, I enjoy building intelligent models and robust full stack applications that drive innovation
 
 ---
 
