@@ -243,19 +243,6 @@ Paper / Technical Documentation
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshul-3000&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-3000&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshul-3000&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🛠️ Supporting Engineering Skills
 
 Although my primary focus is AI/ML research, I use software engineering tools to implement, experiment with, and deploy research systems.
