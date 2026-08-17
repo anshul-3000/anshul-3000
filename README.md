@@ -1,7 +1,7 @@
 <h1 align="center">👨‍🔬 Anshul Chaudhary</h1>
 
 <p align="center">
-  <b>AI/ML Researcher • Deep Learning • Generative AI • NLP • Computer Vision</b>
+  <b>AI/ML Researcher • Deep Learning • Generative AI • Computational Biology • NLP • Computer Vision</b>
 </p>
 
 <p align="center">
